@@ -11,7 +11,7 @@ Using Go to make requests to the Github API through a mountebank proxy which all
 - go: `1.16`
 
 1. install nodejs packages via `npm install` (note it runs patch-package as well)
-2. adjust Github PAT in `main.go` if needed
+2. adjust Github PAT in `main.go` if needed, this needs the permission for `repo: public_repo`.
 
 # setup and running
 
