@@ -1,0 +1,9 @@
+# general
+node_modules
+*.log
+*.pid
+.vscode
+
+## output files
+# see package.json script `mb:save`
+record.json
